@@ -1,3 +1,4 @@
 init file d
 gnab
 gnabbang
+this is fist edit file
